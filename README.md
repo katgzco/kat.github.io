@@ -1,2 +1,2 @@
-# kat.github.io
-Place to dispose my learning, experiences...
+# Kat Gomez
+Security - Software - AI
